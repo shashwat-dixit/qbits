@@ -27,6 +27,10 @@ First off, clone the repository in your desired location.
         npm run dev
     `
 
+*** 
+
 ### Backend
+
+***
 
 ## More about the community
